@@ -6,3 +6,4 @@ https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/Assignment4.ipynb
 https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/Assignment5.ipynb
 https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/Lab06_AIML.ipynb
 https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/Assignment7.ipynb
+https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/aiml_asgn8.ipynb
