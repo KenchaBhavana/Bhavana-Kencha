@@ -8,3 +8,4 @@ https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/Lab06_AIML.ipynb
 https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/Assignment7.ipynb
 https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/aiml_asgn8.ipynb
 https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/asgn9-aiml.ipynb
+https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/aiml_asgn10.ipynb
