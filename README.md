@@ -9,3 +9,4 @@ https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/Assignment7.ipynb
 https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/aiml_asgn8.ipynb
 https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/asgn9-aiml.ipynb
 https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/aiml_asgn10.ipynb
+https://github.com/KenchaBhavana/Bhavana-Kencha/blob/main/IBM_HR_Analytics_on_Employee_Attrition_%26_Performance.ipynb
